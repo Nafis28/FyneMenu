@@ -4,4 +4,6 @@
 
 0.1.1 = Patch/Changes to current widget or App area 
 
-1.0.0 = Public Release.
+1.0.0 = Public Release 1.
+
+2.0.0 = Public Release 2.
